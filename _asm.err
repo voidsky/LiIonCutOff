@@ -1,0 +1,17 @@
+Creating   'main.eep'
+Creating   'main.hex'
+Creating   'main.obj'
+Creating   'main.lis'
+Creating   'main.map'
+
+Assembling 'main.asm'
+Including  'C:\VMLAB\include\Tn15def.inc'
+
+Program memory usage:
+Code             :   36 words
+Constants (dw/db):    0 words
+Unused           :    0 words
+Total            :   36 words
+
+Assembly complete with no errors.
+Deleting   'main.eep'
